@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.commons">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/org.apache.commons.collections4" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
